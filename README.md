@@ -13,3 +13,4 @@ Some record of learning Solidity
 - [Debugging Solidity Using Remix](https://github.com/Hayden0323/hello-solidity/tree/main/Debugging%20Solidity%20Using%20Remix)
 - [ERC20 Tokens and Creating your own Crypto Currency](https://github.com/Hayden0323/hello-solidity/tree/main/ERC20%20Tokens%20and%20my%20own%20Crypto%20Currency)
 - [ERC223 Tokens and Creating your own Crypto Currency](https://github.com/Hayden0323/hello-solidity/tree/main/ERC223%20Tokens%20and%20my%20own%20Crypto%20Currency)
+- [Deploying Tokens and Creating your own Crypto Currency](https://github.com/Hayden0323/hello-solidity/tree/main/Deploying%20Tokens%20and%20my%20own%20Crypto%20Currency)
