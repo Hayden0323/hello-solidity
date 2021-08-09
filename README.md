@@ -17,4 +17,5 @@ Some record of learning Solidity
 - [Functional Assembly](https://github.com/Hayden0323/hello-solidity/tree/main/Functional%20Assembly)
 - [Instructional Assembly](https://github.com/Hayden0323/hello-solidity/tree/main/Instructional%20Assembly) 
 - [Transferring Ethereum between contracts](https://github.com/Hayden0323/hello-solidity/tree/main/Transferring%20Ethereum%20between%20contracts)
+- [Public vs External](https://github.com/Hayden0323/hello-solidity/tree/main/Public%20vs%20External)
 
