@@ -14,7 +14,7 @@ contract AlarmService {
 
   mapping(uint => TimeEvent[]) private _events;
 
-  function set (uint _time) public returns (bool) {
+  function set (uint _time) public {
     TimeEvent memory _timeEvent;
     _timeEvent.addr = msg.sender;
     _timeEvent.data = msg.data;
@@ -33,11 +33,11 @@ contract AlarmTrigger is AlarmWakeUp {
     
   AlarmService private _alarmService;
     
-  constructor () public {
+  constructor () {
     _alarmService = new AlarmService();
   }
     
-  function callback (bytes memory _data) public {
+  function callback (bytes memory _data) override public {
     // Do something
   }
     

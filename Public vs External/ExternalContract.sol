@@ -2,11 +2,11 @@
 pragma solidity ^0.8.6;
 
 contract ExternalContract {
-  function externalCall(string calldata x) external returns (uint) {
+  function externalCall() external pure returns (uint) {
     return 123;
   }
   
-  function publicCall(string memory x) public returns (uint) {
+  function publicCall() public pure returns (uint) {
     return 123;
   }
 }
