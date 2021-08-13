@@ -19,4 +19,5 @@ Some record of learning Solidity
 - [Transferring Ethereum between contracts](https://github.com/Hayden0323/hello-solidity/tree/main/Transferring%20Ethereum%20between%20contracts)
 - [Public vs External](https://github.com/Hayden0323/hello-solidity/tree/main/Public%20vs%20External)
 - [Time Based Events](https://github.com/Hayden0323/hello-solidity/tree/main/Time%20Based%20Events)
+- [Polymorphism](https://github.com/Hayden0323/hello-solidity/tree/main/Polymorphism)
 
