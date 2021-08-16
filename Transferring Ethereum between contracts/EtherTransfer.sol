@@ -2,7 +2,7 @@
 pragma solidity ^0.8.6;
 
 contract EtherTransferTo {
-  fallback () external payable {}
+  receive () external payable {}
 
   function getBalance () public view returns (uint) {
     return address(this).balance;
@@ -25,7 +25,7 @@ contract EtherTransferFrom {
     return _instance.getBalance();
   }
 
-  fallback () external payable {
+  receive () external payable {
     payable(address(_instance)).transfer(msg.value);
   }
 }
