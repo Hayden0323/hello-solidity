@@ -20,4 +20,5 @@ Some record of learning Solidity
 - [Public vs External](https://github.com/Hayden0323/hello-solidity/tree/main/Public%20vs%20External)
 - [Time Based Events](https://github.com/Hayden0323/hello-solidity/tree/main/Time%20Based%20Events)
 - [Polymorphism](https://github.com/Hayden0323/hello-solidity/tree/main/Polymorphism)
+- [Randomness and Gambling](https://github.com/Hayden0323/hello-solidity/tree/main/Randomness%20and%20Gambling)
 
