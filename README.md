@@ -21,4 +21,5 @@ Some record of learning Solidity
 - [Time Based Events](https://github.com/Hayden0323/hello-solidity/tree/main/Time%20Based%20Events)
 - [Polymorphism](https://github.com/Hayden0323/hello-solidity/tree/main/Polymorphism)
 - [Randomness and Gambling](https://github.com/Hayden0323/hello-solidity/tree/main/Randomness%20and%20Gambling)
+- [Nested Arrays and Storage](https://github.com/Hayden0323/hello-solidity/tree/main/Nested%20Arrays%20and%20Storage)
 
