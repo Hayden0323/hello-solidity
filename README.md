@@ -24,4 +24,5 @@ Some record of learning Solidity
 - [Nested Arrays and Storage](https://github.com/Hayden0323/hello-solidity/tree/main/Nested%20Arrays%20and%20Storage)
 - [Parameter Mapping and Multiple Return Values](https://github.com/Hayden0323/hello-solidity/tree/main/Parameter%20Mapping%20and%20Multiple%20Return%20Values)
 - [State Modifiers(view, pure, constant)](https://github.com/Hayden0323/hello-solidity/tree/main/State%20Modifiers%20(view%2C%20pure%2C%20constant))
+- [Multisig Wallet](https://github.com/Hayden0323/hello-solidity/tree/main/Multisig%20Wallet)
 
